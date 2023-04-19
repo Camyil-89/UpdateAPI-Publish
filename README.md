@@ -6,6 +6,7 @@
 
 При добавлении файлов версии, создайте папку которая будет идентична наименованию папки на гитхабе.
 ![image](https://user-images.githubusercontent.com/76705837/233179477-2a73f125-a36c-4a8b-a6e5-587ec8ff7adc.png)
+
 Как показано ниже создана папка 1.0.
 ![image](https://user-images.githubusercontent.com/76705837/233179702-543bc507-de81-4745-b3d7-152ae9df74fb.png)
 
