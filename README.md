@@ -12,7 +12,8 @@
 
 Пример кода для получения обновлений с текущего репозитория.
 
-    UpdaterAPI.GitHub.Downloader downloader = new UpdaterAPI.GitHub.Downloader();
+```cs
+UpdaterAPI.GitHub.Downloader downloader = new UpdaterAPI.GitHub.Downloader();
     downloader.SetRootPath(Directory.GetCurrentDirectory());
     downloader.SetUrlUpdateInfo("Camyil-89/UpdateAPI-Publish/main/UpdateInfo.xml");
     downloader.SetUrlDowloadRoot("Camyil-89/UpdateAPI-Publish/main/versions");
@@ -34,5 +35,6 @@
 			}
 		});
 	}
+```
 
 ![image](https://user-images.githubusercontent.com/76705837/233179499-21d71430-1aac-4f4a-913d-e4911f796870.png)
