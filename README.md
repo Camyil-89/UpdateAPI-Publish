@@ -10,6 +10,8 @@
 Как показано ниже создана папка 1.0.
 ![image](https://user-images.githubusercontent.com/76705837/233179702-543bc507-de81-4745-b3d7-152ae9df74fb.png)
 
+![image](https://user-images.githubusercontent.com/76705837/233179499-21d71430-1aac-4f4a-913d-e4911f796870.png)
+
 Пример кода для получения обновлений с текущего репозитория.
 
 ```cs
@@ -36,5 +38,3 @@ UpdaterAPI.GitHub.Downloader downloader = new UpdaterAPI.GitHub.Downloader();
 		});
 	}
 ```
-
-![image](https://user-images.githubusercontent.com/76705837/233179499-21d71430-1aac-4f4a-913d-e4911f796870.png)
